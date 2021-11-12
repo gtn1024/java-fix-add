@@ -32,6 +32,9 @@
 
     </details>
 
+<details open='true'>
+  <summary>English</summary>
+
 # Kill First Bug Evil
 
 When it comes to learning, nothing is better than practice.
@@ -60,3 +63,5 @@ Any changes to files other than the following files will be rejected:**
 > ——[Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
 >
 > ![bug](https://raw.githubusercontent.com/ByteLegendQuest/java-fix-add/main/first-bug.jpg)
+
+</details>
